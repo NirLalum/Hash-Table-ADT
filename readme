@@ -1,2 +1,16 @@
-314055344 shiramgilboa@campus.technion.ac.il shiram gilboa
-204450779 nirlalum@campus.technion.ac.il nir lalum
+a Hash table ADT that supports the following actions:
+
+HashCreate - creates a new generic Hash Table.
+
+HashAdd - inserts a new element to the Hash Table.
+
+HashFind - finds an element according to a given key.
+
+HashRemove - removes an element according to a given key.
+
+HashPrint - prints the Hash Table.
+
+HashDestroy - destroys the  Hash Table.
+
+
+there is also a dictionary implementation using the generic Hash Table.
